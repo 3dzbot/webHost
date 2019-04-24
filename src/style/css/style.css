@@ -1,2 +1,6 @@
-8 {
+* {
   box-sizing: border-box; }
+
+.container {
+  max-width: 1230px;
+  margin: auto; }
